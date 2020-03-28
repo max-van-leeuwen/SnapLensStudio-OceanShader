@@ -1,6 +1,6 @@
 # SnapLensStudio-OceanShader
 
-A procedural ocean shader for Lens Studio, with a bunch of customization options and scriptable parameters.
+A simple, cartoon-y procedural ocean shader for Lens Studio, with a bunch of customization options and scriptable parameters.
 
 Example project with high res sphere and plane mesh included.
 
