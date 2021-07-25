@@ -1,0 +1,1003 @@
+{
+    "lens_id": "",
+    "document_id": "2IcA2LxmDG5p0FTNQNP9",
+    "original_document_id": "ker-exZkiN1LRCC8y96h",
+    "version": "28",
+    "lastChanged": "1627229826133",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "true",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Mesh"
+                    ],
+                    [
+                        "Mesh",
+                        "1x1_plane_highres"
+                    ],
+                    [
+                        "Mesh",
+                        "1x1_plane_highres",
+                        "1x1_plane_highres"
+                    ],
+                    [
+                        "Mesh",
+                        "1x1_plane_highres",
+                        "Meshes"
+                    ],
+                    [
+                        "Mesh",
+                        "1x1_plane_highres",
+                        "Meshes",
+                        "Resource"
+                    ],
+                    [
+                        "Mesh",
+                        "1x1_sphere_720tr"
+                    ],
+                    [
+                        "Mesh",
+                        "1x1_sphere_720tr",
+                        "1x1_sphere_720tr"
+                    ],
+                    [
+                        "Mesh",
+                        "1x1_sphere_720tr",
+                        "Meshes"
+                    ],
+                    [
+                        "Mesh",
+                        "1x1_sphere_720tr",
+                        "Meshes",
+                        "Resource"
+                    ],
+                    [
+                        "Ocean Shader",
+                        "Ocean"
+                    ],
+                    [
+                        "Ocean Shader",
+                        "Ocean Sphere"
+                    ],
+                    [
+                        "Script"
+                    ],
+                    [
+                        "Script",
+                        "OceanHueCycle"
+                    ],
+                    [
+                        "Stream"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "56814dbefc6c60009fe6066406087653",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Ocean Shader",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "1"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Tree.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Tree.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1585364468355430:24602"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1627228410055001:421269"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1585358056294834:21166",
+                    "name": "Files\/File48.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1627226250602728:119821",
+                    "name": "Files\/File68.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1627226250615743:119847",
+                    "name": "1x1_plane_highres",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1627226250764932:120172",
+                    "name": "Files\/File72.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "44",
+                    "uid": "1627226250777763:120198",
+                    "name": "1x1_sphere_720tr",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "45",
+                    "uid": "1627228410055001:421269",
+                    "name": "Files\/File80",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1627229451944942:573408",
+                    "name": "Files\/File86",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1585148158701198:3213",
+                "4": "1585165461412835:38494"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "48",
+                    "v": "Files\/File48.js"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.mesh"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.mesh"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70.oprfb"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71.obj"
+                },
+                {
+                    "k": "72",
+                    "v": "Files\/File72.mesh"
+                },
+                {
+                    "k": "73",
+                    "v": "Files\/File73.mesh"
+                },
+                {
+                    "k": "74",
+                    "v": "Files\/File74.oprfb"
+                },
+                {
+                    "k": "75",
+                    "v": "Files\/File75.obj"
+                },
+                {
+                    "k": "76",
+                    "v": "Files\/File76.oprfb"
+                },
+                {
+                    "k": "77",
+                    "v": "Files\/File77.oprfb"
+                },
+                {
+                    "k": "80",
+                    "v": "Files\/File80"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81.lsmat"
+                },
+                {
+                    "k": "86",
+                    "v": "Files\/File86"
+                },
+                {
+                    "k": "87",
+                    "v": "Files\/File87.lsmat"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "8",
+                        "v": "Ocean Shader"
+                    },
+                    {
+                        "k": "9",
+                        "v": "Mesh"
+                    },
+                    {
+                        "k": "11",
+                        "v": "Stream"
+                    },
+                    {
+                        "k": "26",
+                        "v": "Script"
+                    },
+                    {
+                        "k": "27",
+                        "v": "Script\/OceanHueCycle.js"
+                    },
+                    {
+                        "k": "31",
+                        "v": "Mesh\/1x1_plane_highres.obj"
+                    },
+                    {
+                        "k": "32",
+                        "v": "Mesh\/1x1_sphere_720tr.obj"
+                    },
+                    {
+                        "k": "33",
+                        "v": "Ocean Shader\/Ocean.lsmat"
+                    },
+                    {
+                        "k": "36",
+                        "v": "Ocean Shader\/Ocean Sphere.lsmat"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "3",
+                        "v": "50d9a0fabb381a3ab3078bdb8c0c3a2d"
+                    },
+                    {
+                        "k": "4",
+                        "v": "3924da4ece660b56cdcb4f2b7b3fe66c"
+                    },
+                    {
+                        "k": "5",
+                        "v": "882a9b066d71c958400d0217d2eb95fe"
+                    },
+                    {
+                        "k": "6",
+                        "v": "822bb8ea70f904860693b3c8a3dcf573"
+                    },
+                    {
+                        "k": "7",
+                        "v": "a98b07c79ec1f453fdc5e016904d29aa"
+                    },
+                    {
+                        "k": "12",
+                        "v": "8737906313859ce10ccb045007753c56"
+                    },
+                    {
+                        "k": "13",
+                        "v": "4d2a3e2d9e18ac24babee8d49722ebea"
+                    },
+                    {
+                        "k": "14",
+                        "v": "295eb458aaef266dc23484f91c32b5f6"
+                    },
+                    {
+                        "k": "15",
+                        "v": "90b22a0b86af0af466931fcd635571a2"
+                    },
+                    {
+                        "k": "16",
+                        "v": "c8b274000e49d26fceabde009d4749c2"
+                    },
+                    {
+                        "k": "17",
+                        "v": "4b7304d33c63dca38a41f4f1c3a4fc1b"
+                    },
+                    {
+                        "k": "18",
+                        "v": "878816794c7046266ca4a733b4e4d8e9"
+                    },
+                    {
+                        "k": "19",
+                        "v": "9f1ce0a453b58102d547b10ad704800f"
+                    },
+                    {
+                        "k": "20",
+                        "v": "5040ed572e7da04359a92fac9057af3b"
+                    },
+                    {
+                        "k": "21",
+                        "v": "b4db56680cb3f483ba608ac727ccd867"
+                    },
+                    {
+                        "k": "22",
+                        "v": "3f6d3d89b77e0fc2f3f88aa9e4dcb78f"
+                    },
+                    {
+                        "k": "23",
+                        "v": "0fedaf6d0c2e92bb097532d2d70759a2"
+                    },
+                    {
+                        "k": "25",
+                        "v": "d6d5e9514929fb7e1925d3ca80d3ab7c"
+                    },
+                    {
+                        "k": "27",
+                        "v": "2d04494e55d3db63ec2d3ea82b04737c"
+                    },
+                    {
+                        "k": "28",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "29",
+                        "v": "f3f8f179b87ba4b5a44077fb80d53214"
+                    },
+                    {
+                        "k": "30",
+                        "v": "ffbce66d7c12d942b13208740e9d0059"
+                    },
+                    {
+                        "k": "31",
+                        "v": "eb23d97f33128ed65195ca03e26c6b6e"
+                    },
+                    {
+                        "k": "32",
+                        "v": "4130ce19ffd08bb6e9106110b2492dcc"
+                    },
+                    {
+                        "k": "33",
+                        "v": "ed5ffedb00054cc63f19ae44f14f9c59"
+                    },
+                    {
+                        "k": "34",
+                        "v": "43802fcd85e89349e6d89bb768106c8e"
+                    },
+                    {
+                        "k": "35",
+                        "v": "412907fd566da89a2203fc6455a0a14f"
+                    },
+                    {
+                        "k": "36",
+                        "v": "58be74941dff83dc6192378806c8a3d1"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-07-25T18:15:22",
+                        "name": "Public",
+                        "hash": "14ec53b6a11d077adcfd2e01d3f04cfe",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-07-25T17:18:55",
+                                "name": "Mesh",
+                                "hash": "797d6ccda76af682bbf60b30651ac91a",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-04-15T13:44:31",
+                                        "name": "1x1_sphere_720tr.obj",
+                                        "hash": "4130ce19ffd08bb6e9106110b2492dcc",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-03-29T14:14:27",
+                                        "name": "1x1_plane_highres.obj",
+                                        "hash": "eb23d97f33128ed65195ca03e26c6b6e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-07-25T17:03:40",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-07-25T18:16:56",
+                                "name": "Ocean Shader",
+                                "hash": "c16543de5792886b1b0137c56deedf3d",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-07-25T18:16:56",
+                                        "name": "Ocean.lsmat",
+                                        "hash": "51345bda83be5f4bc84cf27abf55398a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-07-25T18:16:56",
+                                        "name": "Ocean Sphere.lsmat",
+                                        "hash": "8293f245eecfd582a8abd60bb16cb167",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-07-25T17:03:40",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-07-25T17:13:47",
+                                "name": "Stream",
+                                "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-07-25T17:03:40",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-07-25T17:13:47",
+                                "name": "Script",
+                                "hash": "09b961bc8c2fb704df92eb7f91615c4a",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-07-25T17:15:38",
+                                        "name": "OceanHueCycle.js",
+                                        "hash": "2d04494e55d3db63ec2d3ea82b04737c",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-07-25T17:03:40",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-07-25T17:03:40",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Ocean Shader",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "8",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Ocean",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "45",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1627228410055001:421269",
+                                "fileId": "80",
+                                "originalId": "81",
+                                "publicId": "33",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Ocean Sphere",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "48",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1627229451944942:573408",
+                                "fileId": "86",
+                                "originalId": "87",
+                                "publicId": "36",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mesh",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "9",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "1x1_plane_highres",
+                                "type": "18",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "2",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "71",
+                                "originalId": "18446744073709551615",
+                                "publicId": "31",
+                                "source": "\/Users\/gsmac31\/Git\/dev-snippets-tricks-and-information\/Mesh\/1x1_plane_highres.obj",
+                                "additional": {
+                                    "materialMapping": ""
+                                },
+                                "resources": [
+                                    {
+                                        "name": "Meshes",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Resource",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "41",
+                                                "dependency": "1",
+                                                "hidden": "false",
+                                                "uid": "1627226250602728:119821",
+                                                "fileId": "68",
+                                                "originalId": "69",
+                                                "publicId": "18446744073709551615",
+                                                "source": "\/private\/var\/folders\/by\/0dhhk3j13j560jxj8p3x4rzr0000gn\/T\/Lens Studio-FAzeTy\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "1x1_plane_highres",
+                                        "type": "12",
+                                        "subtype": "-1",
+                                        "resourceId": "42",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1627226250615743:119847",
+                                        "fileId": "70",
+                                        "originalId": "76",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "1x1_sphere_720tr",
+                                "type": "18",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "2",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "75",
+                                "originalId": "18446744073709551615",
+                                "publicId": "32",
+                                "source": "\/Users\/gsmac31\/Git\/dev-snippets-tricks-and-information\/Mesh\/1x1_sphere_720tr.obj",
+                                "additional": {
+                                    "materialMapping": ""
+                                },
+                                "resources": [
+                                    {
+                                        "name": "Meshes",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Resource",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "43",
+                                                "dependency": "1",
+                                                "hidden": "false",
+                                                "uid": "1627226250764932:120172",
+                                                "fileId": "72",
+                                                "originalId": "73",
+                                                "publicId": "18446744073709551615",
+                                                "source": "\/private\/var\/folders\/by\/0dhhk3j13j560jxj8p3x4rzr0000gn\/T\/Lens Studio-FAzeTy\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "1x1_sphere_720tr",
+                                        "type": "12",
+                                        "subtype": "-1",
+                                        "resourceId": "44",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1627226250777763:120198",
+                                        "fileId": "74",
+                                        "originalId": "77",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stream",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "11",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Script",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "26",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "OceanHueCycle",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "36",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1585358056294834:21166",
+                                "fileId": "48",
+                                "originalId": "18446744073709551615",
+                                "publicId": "27",
+                                "source": "C:\/Users\/Max\/AppData\/Local\/Temp\/Lens Studio-pRfszg\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": [
+                {
+                    "k": "1627226250615743:119847",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1627226250612124:119831"
+                        },
+                        {
+                            "k": [
+                                "Scene Object"
+                            ],
+                            "v": "1627226250613016:119833"
+                        },
+                        {
+                            "k": [
+                                "Scene Object",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1627226250613322:119835"
+                        }
+                    ]
+                },
+                {
+                    "k": "1627226250777763:120198",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1627226250774599:120182"
+                        },
+                        {
+                            "k": [
+                                "Scene Object"
+                            ],
+                            "v": "1627226250775427:120184"
+                        },
+                        {
+                            "k": [
+                                "Scene Object",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1627226250775668:120186"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Compression::IController": {
+            "compression_info": ""
+        },
+        "AssetLibController": {
+            "itemUidToID": ""
+        }
+    }
+}
