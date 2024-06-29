@@ -6,12 +6,4 @@ Example project with high res sphere and plane mesh included.
 
 <br/><br/>
 
-https://gfycat.com/calculatingheartfeltchevrotain
-
-![Ocean Shader](https://thumbs.gfycat.com/CalculatingHeartfeltChevrotain-size_restricted.gif)
-
-<br/><br/>
-
-https://gfycat.com/daringmeanbug
-
-![Ocean Shader](https://thumbs.gfycat.com/DaringMeanBug-size_restricted.gif)
+![Ocean Shader 1](https://github.com/max-van-leeuwen/SnapLensStudio-OceanShader/blob/master/Media/ocean%20shader%201.gif?raw=true) ![Ocean Shader 2](https://github.com/max-van-leeuwen/SnapLensStudio-OceanShader/blob/master/Media/ocean%20shader%202.gif?raw=true)
